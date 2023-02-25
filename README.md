@@ -1,4 +1,4 @@
-# Random-Password-Generator using:
+## Random-Password-Generator using:
 
 ## [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,vite&perline=5)](https://skillicons.dev)
 
